@@ -62,6 +62,7 @@ namespace GatewayService
                     }
                     else
                     {
+                        response.Message = response.Message + " CircuitBreaker";
                         Reopen(response);
                     }
 
@@ -91,6 +92,7 @@ namespace GatewayService
             Console.WriteLine($"{ _errorsCount }");
             if (_errorsCount >= ErrorsLimit)
             {
+                response.Message = response.Message + " CircuitBreaker";
                 _lastResponse = response;
                 _state = CircuitBreakerState.Open;
                 _lastStateChangedDateUtc = DateTime.UtcNow;
