@@ -8,18 +8,88 @@ on:
 
 jobs:
   build:
-
+    name: Build
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: 5.0.x
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+      - uses: actions/checkout@v2
+      
+      - name: Deploy Car Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'car-service-carbookingsystem'}}
+        run: |
+          cd CarService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+      
+      - name: Deploy Office Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'office-serv-carbookingsystem'}}
+        run: |
+          cd OfficeService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+      
+      - name: Deploy Payment Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'payment-serv-carbookingsystem'}}
+        run: |
+          cd PaymentService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+          
+      - name: Deploy Booking Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'booking-serv-carbookingsystem'}}
+        run: |
+          cd BookingService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+     
+      - name: Deploy Session Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'session-serv-carbookingsystem'}}
+        run: |
+          cd SessionService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+          
+      - name: Deploy Report Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'report-serv-carbookingsystem'}}
+        run: |
+          cd ReportService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+          
+      - name: Deploy Gateway Service
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'gw-carbookingsystem'}}
+        run: |
+          cd GatewayService
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
+      - name: Deploy Frontend
+        env:
+          HEROKU_API_KEY: ${{'c588b836-520a-4b32-8d00-57e66183dcd1'}}
+          APP_NAME: ${{'carbookingssystem'}}
+        run: |
+          cd Frontend
+          docker build -t carbookingssystem .
+          docker run -p 80:80 -d carbookingssystem
+          docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+          heroku container:push web -a $APP_NAME
+          heroku container:release web -a $APP_NAME
