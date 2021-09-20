@@ -1,0 +1,24 @@
+<h3>Статистика бронирования автомобилей по моделям </h3>
+
+<h6 *ngIf="nullReport">Статистика отсутствует</h6>
+
+<table class="table" *ngIf="notnullReport">
+  <thead class="thead-light">
+    <tr>
+      <th class="th-sm">Модель </th>
+      <th class="th-sm">Количество бронирований </th>
+    </tr>
+  </thead>
+  <tbody #myTable>
+    <tr *ngFor="let report of reportModel">
+      <td>{{report.model}}</td>
+      <td>{{report.modelCount}}</td>
+    </tr>
+  </tbody>
+</table>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+             [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>
+

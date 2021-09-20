@@ -1,0 +1,44 @@
+h3 {
+  color: black;
+  background-color: white;
+  margin-bottom: 2vh;
+}
+
+a {
+  color: grey;
+}
+
+  a:hover {
+    color: black;
+  }
+
+input {
+  width: 100%;
+  padding: 1vw 1vw;
+  border: 1px solid #ccc;
+  border-radius: 0;
+}
+
+button.btnAddAuto {
+  color: black;
+  background-color: white;
+  width: 20vw;
+  padding: 0.5em;
+  margin-bottom: 1vh;
+  margin-top: 1vh;
+}
+
+div.container {
+  position: fixed;
+  width: 40vw;
+  left: 30vw;
+  top: 25vh;
+  bottom: 25vh;
+  background-color: var(--componentBg);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,78 @@
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.exe
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.deps.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.runtimeconfig.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.runtimeconfig.dev.json
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\ReportService.pdb
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.csprojAssemblyReference.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfoInputs.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfo.cs
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.RazorTargetAssemblyInfo.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\staticwebassets\ReportService.StaticWebAssets.Manifest.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\staticwebassets\ReportService.StaticWebAssets.xml
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.pdb
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.genruntimeconfig.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.CopyComplete
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\M_0050\source\repos\CarBookingSystem\ReportService\obj\Debug\netcoreapp3.1\ReportService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\ReportService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.AssemblyReference.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfoInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.AssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\staticwebassets\ReportService.StaticWebAssets.Manifest.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\staticwebassets\ReportService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ReportService.styles.css
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.RazorTargetAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.csproj.CopyComplete
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\obj\Debug\netcoreapp3.1\ReportService.genruntimeconfig.cache
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sholl\OneDrive\Рабочий стол\CarBookingSystem1\ReportService\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll

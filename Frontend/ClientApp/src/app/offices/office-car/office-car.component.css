@@ -1,0 +1,76 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h3 {
+  color: black;
+  background-color: white;
+  margin-bottom: 1vh;
+}
+
+h6 {
+  color: black;
+  background-color: white;
+}
+
+input {
+  margin-left: 1vw;
+  margin-bottom: 1vh;
+  width: 64vw;
+}
+
+  input.form-control {
+    border-radius: 0;
+  }
+
+.table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+  .table tbody {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    height: 26em;
+  }
+
+button.btnAddAuto {
+  color: black;
+  background-color: white;
+  width: 20vw;
+  padding: 0.5em;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+}
+
+.table thead tr {
+  width: 100%;
+  display: block;
+}
+
+.table td {
+  padding: 1em;
+  text-align: center;
+  width: 13em;
+}
+
+.table th.th-sm {
+  text-align: center;
+  width: 13em;
+}
+
+.scrollHeader {
+  width: 1em;
+}
+
+.input-group-text {
+  color: black;
+  background-color: white;
+  width: 5em
+}
+
+.custom-select {
+  margin-bottom: 1vh;
+}

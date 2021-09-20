@@ -1,0 +1,36 @@
+<h3>Бронирование автомобиля</h3>
+
+<h6>Бренд: {{officeCar.brand}} </h6>
+<h6>Модель: {{officeCar.model}} </h6>
+<h6>Мощность: {{officeCar.power}} </h6>
+<h6>Тип: {{officeCar.carType}} </h6>
+<h6>Регистрационный номер автомобиля: {{officeCar.registrationNumber}} </h6>
+<h6>Локация, откуда забрать автомобиль: {{officeCar.locationOffice}} </h6>
+
+<!-- Выбор локации -->
+<h6>Локация возвращения автомобиля:</h6>
+<select class="custom-select" (change)="selectOffice($event)" id="officeSelect">
+	<option *ngFor="let office of officeList; let i = index" value="{{office.id}}">{{office.location}}</option>
+</select>
+
+<h6>Даты бронирования доступны с {{firstData}} по {{secondData}}</h6>
+
+<!-- Расписание как-то решить вопрос -->
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addSchedule">Дата: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <input required type="date" required="required" #count="ngModel" [(ngModel)]="schedule" id="schedule" aria-describedby="addSchedule" min={{officeCar.availabilityScheduleFirst}} max={{officeCar.availabilityScheduleSecond}} class="form-control" name="schedule">
+</div>
+
+<!-- [disabled]="count.invalid" -->
+<div *ngIf="true">
+	<button type="button" class="btnAddAuto" (click)="createBooking()">Забронировать</button>
+</div>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+             [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>
+

@@ -1,0 +1,47 @@
+<h3 *ngIf="notnullCar">Список автомобилей в офисе - {{location}}</h3>
+
+<h6 *ngIf="nullCar">Автомобили в этом офисе отсутствуют</h6>
+
+<div>
+  <button type="button" class="btnAddAuto" *ngIf="role=='admin'" (click)="gotoAddOfficeCars(officeId)">Добавить автомобиль в этот офис</button>
+</div>
+
+<table class="table" *ngIf="notnullCar">
+  <thead class="thead-light">
+    <tr>
+      <th class="th-sm">Регистрационный номер </th>
+      <th class="th-sm">Марка </th>
+      <th class="th-sm">Модель </th>
+      <th class="th-sm">Мощность </th>
+      <th class="th-sm">Тип автомобиля </th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+    </tr>
+  </thead>
+  <tbody #myTable>
+    <tr *ngFor="let car of officeCars">
+      <td>{{car.registrationNumber}}</td>
+      <td>{{car.brand}}</td>
+      <td>{{car.model}}</td>
+      <td>{{car.power}}</td>
+      <td>{{car.carType}}</td>
+      <td>
+        <div *ngIf="true">
+          <button type="button" class="btn" (click)="gotoOfficeCar(car.carUid, officeId)">Выбрать </button>
+        </div>
+      </td>
+      <td>
+        <!--TODO здесь нужна проверка, что пользователь авторизован-->
+        <button type="button" class="btn" *ngIf="role=='admin'" (click)="deleteCarFromOffice(car.carUid, officeId)">Убрать </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+             [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>
+

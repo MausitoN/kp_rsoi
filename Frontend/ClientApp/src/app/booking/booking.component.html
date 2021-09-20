@@ -1,0 +1,37 @@
+<h4 class="modal-header">Бронь №{{bookingId}}</h4>
+
+<div class="modal-body">
+	<div class="group mb-3">
+		<h6 *ngIf="booking.brand">Характеристики автомобиля </h6>
+		<h6 *ngIf="booking.brand">Бренд: {{booking.brand}} </h6>
+		<h6 *ngIf="booking.model">Модель: {{booking.model}} </h6>
+		<h6 *ngIf="booking.power">Мощность: {{booking.power}} </h6>
+		<h6 *ngIf="booking.brand">Тип: {{booking.carType}} </h6>
+	</div>
+	<h6>Регистрационный номер автомобиля: {{booking.registrationNumber}} </h6>
+	<h6>Статус брони: {{booking.status}} </h6>
+	<h6 *ngIf="booking.locationFrom">Локация, откуда забрать автомобиль: {{booking.locationFrom}} </h6>
+	<h6 *ngIf="booking.locationTo">Локация, куда отдать: {{booking.locationTo}} </h6>
+	<h6>Дата: {{booking.availabilitySchedule}} </h6>
+	<h6 *ngIf="booking.price">Стоимость: {{booking.price}} </h6>
+	<h6 *ngIf="booking.price">Статус оплаты: {{booking.paymentStatus}} </h6>
+
+	<!-- Сделать проверку на оплату -->
+	<div>
+	  <button *ngIf="paid" type="button" class="btnAddAuto" (click)="payBooking(booking.paymentUid)">Оплатить</button>
+	</div>
+
+	<div>
+	  <button *ngIf="cancel" type="button" class="btnAddAuto" (click)="cancelBooking(bookingId)">Отменить</button>
+	</div>
+
+	<div>
+	  <button *ngIf="finish" type="button" class="btnAddAuto" (click)="finishBooking(bookingId)">Завершить</button>
+	</div>
+
+	<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+	             [fullScreen]="true">
+	  <p style="color: white"> Идет загрузка... </p>
+	</ngx-spinner>
+</div>
+

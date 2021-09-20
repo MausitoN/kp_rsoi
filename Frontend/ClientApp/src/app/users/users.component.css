@@ -1,0 +1,69 @@
+h3 {
+  color: black;
+  background-color: white;
+  margin-bottom: 1vh;
+}
+
+h6 {
+  color: black;
+  background-color: white;
+}
+
+input {
+  margin-left: 1vw;
+  margin-bottom: 1vh;
+  width: 80vw;
+}
+
+  input.form-control {
+    border-radius: 0;
+  }
+
+button.btnAddAuto {
+  color: black;
+  background-color: white;
+  width: 20vw;
+  padding: 0.5em;
+  margin-bottom: 3vh;
+  margin-top: 3vh;
+}
+
+.table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+  .table tbody {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    height: 26em;
+  }
+
+.table thead tr {
+  width: 100%;
+  display: block;
+}
+
+.table td {
+  padding: 1em;
+  text-align: center;
+  border-bottom: 5px solid #f9f9f9;
+  width: 35em;
+}
+
+.table th.th-sm {
+  background: #f9f9f9;
+  text-align: center;
+  width: 35em;
+}
+
+.scrollHeader {
+  width: 1em;
+}
+
+.container {
+  width: 100%;
+  position: relative;
+}

@@ -1,0 +1,62 @@
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.csproj.AssemblyReference.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.AssemblyInfoInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.AssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.csproj.CoreCompileInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\appsettings.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ref\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\ShareService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\staticwebassets\ShareService.StaticWebAssets.Manifest.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\staticwebassets\ShareService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\scopedcss\bundle\ShareService.styles.css
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.RazorTargetAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.csproj.CopyComplete
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ref\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\obj\Debug\net5.0\ShareService.genruntimeconfig.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\appsettings.Development.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\appsettings.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ref\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\ShareService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.csproj.AssemblyReference.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.AssemblyInfoInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.AssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.csproj.CoreCompileInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.MvcApplicationPartsAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\staticwebassets\ShareService.StaticWebAssets.Manifest.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\staticwebassets\ShareService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\scopedcss\bundle\ShareService.styles.css
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.RazorTargetAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.csproj.CopyComplete
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ref\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ShareService\obj\Debug\net5.0\ShareService.genruntimeconfig.cache

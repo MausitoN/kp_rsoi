@@ -1,0 +1,92 @@
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\appsettings.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ref\OfficeService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Npgsql.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.AssemblyInfoInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.AssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.csproj.CoreCompileInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\staticwebassets\OfficeService.StaticWebAssets.Manifest.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\staticwebassets\OfficeService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\scopedcss\bundle\OfficeService.styles.css
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.RazorTargetAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.csproj.CopyComplete
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\ref\OfficeService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.genruntimeconfig.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\OfficeService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\bin\Debug\net5.0\ShareService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.csproj.AssemblyReference.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\Office\obj\Debug\net5.0\OfficeService.MvcApplicationPartsAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\ref\OfficeService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\appsettings.Development.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\appsettings.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ref\OfficeService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\OfficeService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Npgsql.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\bin\Debug\net5.0\ShareService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.csproj.AssemblyReference.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.AssemblyInfoInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.AssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.csproj.CoreCompileInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.MvcApplicationPartsAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.MvcApplicationPartsAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\staticwebassets\OfficeService.StaticWebAssets.Manifest.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\staticwebassets\OfficeService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\scopedcss\bundle\OfficeService.styles.css
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.RazorTargetAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.csproj.CopyComplete
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\Office\obj\Debug\net5.0\OfficeService.genruntimeconfig.cache

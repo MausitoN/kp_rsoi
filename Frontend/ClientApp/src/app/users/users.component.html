@@ -1,0 +1,27 @@
+<h3 class="titleCars">Пользователи</h3>
+
+<h6 *ngIf="nullUser">Пользователи отсутствуют</h6>
+
+<div>
+  <button type="button" class="btnAddAuto" [routerLink]="['/add-user']">Добавить пользователя</button>
+</div>
+
+<table class='table' *ngIf="notnullUser">
+  <thead class="thead-light">
+    <tr>
+      <th class="th-sm">Логин </th>
+      <th class="th-sm">Роль </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users">
+      <td>{{user.login}}</td>
+      <td>{{user.role}}</td>
+    </tr>
+  </tbody>
+</table>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+              [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>

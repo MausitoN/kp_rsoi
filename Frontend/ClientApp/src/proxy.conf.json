@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://gw-carbookingsystem.herokuapp.com",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}

@@ -1,0 +1,47 @@
+<h3 class="titleCars">Автомобили</h3>
+
+<h6 *ngIf="nullCar">Автомобили отсутствуют</h6>
+
+<div>
+  <button type="button" class="btnAddAuto" *ngIf="role == 'admin'" [routerLink]="['/car/add-new-car']">Добавить автомобиль</button>
+</div>
+
+<table class='table' *ngIf="notnullCar">
+  <thead class="thead-light">
+    <tr>
+      <th class="th-sm">Бренд</th>
+      <th class="th-sm">Модель</th>
+      <th class="th-sm">Тип</th>
+      <th class="th-sm">Мощность</th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+      <th class="th-sm"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let car of cars">
+      <td>{{car.brand}}</td>
+      <td>{{car.model}}</td>
+      <td>{{car.carType}}</td>
+      <td>{{car.power}}</td>
+      <td>
+        
+        <div *ngIf="true">
+          <button type="button" class="btn" (click)="gotoCarOffices(car.id)">Посмотреть автомобиль в офисах</button>
+        </div>
+      </td>
+      <td>
+        <!--Здесь будет еще проверка роли пользователя, чтобы отобразить кнопку удалть-->
+        <div *ngIf="role == 'admin'">
+          <button type="button" class="btn" (click)="deleteCar(car.id)">Удалить автомобиль</button>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+              [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>

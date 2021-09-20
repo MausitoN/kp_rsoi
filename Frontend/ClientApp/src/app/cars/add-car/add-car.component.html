@@ -1,0 +1,45 @@
+<h3>Добавление автомобиля:</h3>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addBrand">Бренд: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <input type="string" class="form-control" name="brand" #addBrand="ngModel" [(ngModel)]="brand" id="brand" aria-describedby="addBrand">
+</div>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addModel">Модель: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <input type="string" class="form-control" name="model" #addModel="ngModel" [(ngModel)]="model" id="model" aria-describedby="addModel">
+</div>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addPower">Мощность: </span>
+  </div>
+
+  <input type="string" class="form-control" name="power" required pattern="^#[0-9]" #addPower="ngModel" [(ngModel)]="power" id="power" aria-describedby="addPower" >
+</div>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addCarType">Тип: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <select class="custom-select" (change)="selectCarType($event)" id="carTypeSelect">
+	<option *ngFor="let automobile of automobileTypes; let i = index" value="{{automobile.id}}">{{automobile.name}}</option>
+  </select>
+</div>
+
+<div>
+  <button type="button" class="btnAddAuto" (click)="addCar()" formnovalidate>Добавить автомобиль</button>
+</div>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+             [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>
+

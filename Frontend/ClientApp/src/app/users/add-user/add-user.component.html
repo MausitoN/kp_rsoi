@@ -1,0 +1,27 @@
+<h3>Добавление пользователя:</h3>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addLogin">Логин: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <input type="string" class="form-control" name="login" #addLogin="ngModel"  min="1" max="1000" [(ngModel)]="login" id="login" aria-describedby="addLogin">
+</div>
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="addPassword">Пароль: </span>
+  </div>
+  <!-- required pattern="^[1-9][0-9]*" -->
+  <input type="string" class="form-control" name="password" #addPassword="ngModel"  min="1" max="1000" [(ngModel)]="password" id="password" aria-describedby="addPassword">
+</div>
+
+<div>
+  <button type="button" class="btnAddAuto" (click)="addUser()">Добавить пользователя</button>
+</div>
+
+<ngx-spinner bdOpacity=0.1 bdColor="rgba(51, 51, 51, 0.4)" size="medium" color="#fff" type="ball-beat"
+             [fullScreen]="true">
+  <p style="color: white"> Идет загрузка... </p>
+</ngx-spinner>
+

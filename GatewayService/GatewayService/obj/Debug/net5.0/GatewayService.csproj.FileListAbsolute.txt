@@ -1,0 +1,124 @@
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.csproj.AssemblyReference.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.AssemblyInfoInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.AssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.csproj.CoreCompileInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.RazorAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.RazorAssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\appsettings.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ref\GatewayService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.Views.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\GatewayService.Views.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Npgsql.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\ShareService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\staticwebassets\GatewayService.StaticWebAssets.Manifest.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\staticwebassets\GatewayService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\scopedcss\bundle\GatewayService.styles.css
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.TagHelpers.input.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.TagHelpers.output.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.RazorCoreGenerate.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.RazorTargetAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.RazorTargetAssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.Views.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.csproj.CopyComplete
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\ref\GatewayService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\obj\Debug\net5.0\GatewayService.genruntimeconfig.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\appsettings.Development.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\appsettings.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ref\GatewayService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.Views.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\GatewayService.Views.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Npgsql.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\bin\Debug\net5.0\ShareService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.csproj.AssemblyReference.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.AssemblyInfoInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.AssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.csproj.CoreCompileInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.MvcApplicationPartsAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.MvcApplicationPartsAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.RazorAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.RazorAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\staticwebassets\GatewayService.StaticWebAssets.Manifest.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\staticwebassets\GatewayService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\scopedcss\bundle\GatewayService.styles.css
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.TagHelpers.input.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.TagHelpers.output.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.RazorCoreGenerate.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.RazorTargetAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.RazorTargetAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.Views.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.csproj.CopyComplete
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\ref\GatewayService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\GatewayService\obj\Debug\net5.0\GatewayService.genruntimeconfig.cache

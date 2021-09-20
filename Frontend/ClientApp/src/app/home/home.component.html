@@ -1,0 +1,18 @@
+<div>
+  <button type="button" class="btn" *ngIf="logIs==false" [routerLink]="['/login']">Вход</button>
+</div>
+<div>
+  <button type="button" class="btn" *ngIf="logIs" [routerLink]="['/booking']">Профиль</button>
+</div>
+<div>
+  <button type="button" class="btn" *ngIf="role == 'admin'" [routerLink]="['/users']">Пользователи</button>
+</div>
+<div>
+  <button type="button" class="btn" *ngIf="role == 'admin'" [routerLink]="['/reports/booking-by-models']">Посмотреть статистику по моделям</button>
+</div>
+<div>
+  <button type="button" class="btn" *ngIf="role == 'admin'" [routerLink]="['/reports/booking-by-offices']">Посмотреть статистику по офисам</button>
+</div>
+<div>
+  <button type="button" class="btn" *ngIf="logIs" (click)="logout()">Выход</button>
+</div>

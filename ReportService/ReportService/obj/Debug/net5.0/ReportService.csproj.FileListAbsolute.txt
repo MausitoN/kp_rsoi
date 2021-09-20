@@ -1,0 +1,94 @@
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\appsettings.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ref\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Npgsql.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.AssemblyInfoInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.AssemblyInfo.cs
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.csproj.CoreCompileInputs.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\staticwebassets\ReportService.StaticWebAssets.Manifest.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\staticwebassets\ReportService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\scopedcss\bundle\ReportService.styles.css
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.RazorTargetAssemblyInfo.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.csproj.CopyComplete
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ref\ReportService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.genruntimeconfig.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.deps.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.exe
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ReportService.StaticWebAssets.xml
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.dll
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\bin\Debug\net5.0\ShareService.pdb
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.csproj.AssemblyReference.cache
+C:\Users\sholl\OneDrive\Рабочий стол\тест\CarBookingSystem1\ReportService\obj\Debug\net5.0\ReportService.MvcApplicationPartsAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ref\ReportService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\appsettings.Development.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\appsettings.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.exe
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.deps.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.runtimeconfig.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.runtimeconfig.dev.json
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ref\ReportService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ReportService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Npgsql.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.dll
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\bin\Debug\net5.0\ShareService.pdb
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.csproj.AssemblyReference.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.AssemblyInfoInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.AssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.csproj.CoreCompileInputs.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.MvcApplicationPartsAssemblyInfo.cs
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.MvcApplicationPartsAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\staticwebassets\ReportService.StaticWebAssets.Manifest.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\staticwebassets\ReportService.StaticWebAssets.xml
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\scopedcss\bundle\ReportService.styles.css
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.RazorTargetAssemblyInfo.cache
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.csproj.CopyComplete
+C:\msys64\home\sholl\rsoi-kp-zhukovaan20\ReportService\obj\Debug\net5.0\ReportService.genruntimeconfig.cache
